@@ -11,8 +11,8 @@ Was ich gerne mache:
 - Zwischen fachlichen Anforderungen und technischer Umsetzung vermitteln
 - Daten verarbeiten und wiederkehrende Abläufe automatisieren
 
-Programming & Development
-- Python Anwendungsentwicklung, Flask, Datenverarbeitung & GUI
+Programmiersprachen:
+- Python, Flask, FLET
 - C# Objektorientierte Programmierung & Softwareentwicklung
 - HTML & CSS Webentwicklung & Frontend
 - JavaScript Webentwicklung & interaktive Anwendungen
