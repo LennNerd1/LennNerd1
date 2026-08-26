@@ -5,10 +5,7 @@ Ich bin Wirtschaftsinformatiker und würde behaupten großes Interesse an der So
 Was ich gerne mache:
 - Anforderungen analysieren, strukturieren und dokumentieren
 - Systeme und Prozesse mit UML modellieren und spezifizieren
-- Anwendungen und Prototypen entwickeln
 - Datenbanken entwerfen, strukturieren und verwalten
-- Geschäftsprozesse analysieren und digital optimieren
-- Zwischen fachlichen Anforderungen und technischer Umsetzung vermitteln
 - Daten verarbeiten und wiederkehrende Abläufe automatisieren
 
 Programmiersprachen:
