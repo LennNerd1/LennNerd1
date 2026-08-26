@@ -3,7 +3,6 @@
 Ich bin Wirtschaftsinformatiker mit Fokus auf Softwareentwicklung, Requirements Engineering und die Schnittstelle zwischen Business & IT. Ich interessiere mich besonders dafür, komplexe Anforderungen zu verstehen, strukturiert aufzubereiten und daraus funktionierende technische Lösungen zu entwickeln.
 
 Was ich gerne mache:
-
 🔎 Anforderungen analysieren, strukturieren und dokumentieren
 📐 Systeme und Prozesse mit UML modellieren und spezifizieren
 💻 Anwendungen und Prototypen entwickeln
@@ -15,26 +14,22 @@ Was ich gerne mache:
 🛠️ Tech Stack
 
 Programming & Development
-
 🐍 Python Anwendungsentwicklung, Flask, Datenverarbeitung & GUI
 #️⃣ C# Objektorientierte Programmierung & Softwareentwicklung
 🌐 HTML & CSS Webentwicklung & Frontend
 ⚡ JavaScript Webentwicklung & interaktive Anwendungen
 
 Databases
-
 🐬 MySQL & MariaDB relationale Datenbanken, Datenmodellierung & SQL
 🍃 MongoDB NoSQL-Datenbanken & dokumentenbasierte Datenstrukturen
 
 Analysis & Engineering
-
 📊 UML Systemmodellierung, Use Cases, Aktivitäts und Klassendiagramme
 📝 Requirements Engineering Anforderungsanalyse, Spezifikation & Dokumentation
 🔄 Prozessanalyse & Optimierung
 🏗️ Systemkonzeption & Softwarearchitektur Grundlagen
 
 Business & Enterprise
-
 🟦 SAP Grundlagen
 📈 Verständnis für Geschäftsprozesse und deren technische Abbildung
 🚀 Mein Ansatz
