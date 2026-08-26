@@ -13,9 +13,9 @@ Was ich gerne mache:
 
 Programmiersprachen:
 - Python, Flask, FLET
-- C# Objektorientierte Programmierung & Softwareentwicklung
-- HTML & CSS Webentwicklung & Frontend
-- JavaScript Webentwicklung & interaktive Anwendungen
+- C#
+- HTML & CSS
+- JavaScript Frontend Webdevelopment
 
 Databases
 - MySQL & MariaDB relationale Datenbanken, Datenmodellierung & SQL
