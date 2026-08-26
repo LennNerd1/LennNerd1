@@ -10,7 +10,6 @@ Was ich gerne mache:
 - Geschäftsprozesse analysieren und digital optimieren
 - Zwischen fachlichen Anforderungen und technischer Umsetzung vermitteln
 - Daten verarbeiten und wiederkehrende Abläufe automatisieren
-- Webanwendungen und Benutzeroberflächen entwickeln
 
 Programming & Development
 - Python Anwendungsentwicklung, Flask, Datenverarbeitung & GUI
@@ -27,12 +26,3 @@ Analysis & Engineering
 - Requirements Engineering Anforderungsanalyse, Spezifikation & Dokumentation
 - Prozessanalyse & Optimierung
 - Systemkonzeption & Softwarearchitektur Grundlagen
-
-Business & Enterprise
-SAP Grundlagen
-Verständnis für Geschäftsprozesse und deren technische Abbildung
-Mein Ansatz
-
-Ich verbinde technisches Verständnis mit einem Blick für Prozesse und Anforderungen. Dabei interessiert mich nicht nur, wie etwas programmiert wird, sondern vor allem warum es gebraucht wird und wie daraus eine sinnvolle, wartbare Lösung entsteht.
-
-Meine Projekte reichen von Datenbank- und Backend-Anwendungen über Webentwicklung bis hin zu kleinen Automatisierung und Softwareprojekten.
